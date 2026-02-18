@@ -34,3 +34,21 @@ nav:
     - Оформление возврата (RU): customer-service/ru/refund-flow.md
   - Продажи:
     - Допродажа пакета (RU): sales/ru/upsell-bundle.md
+  - Контур.Экстерн (демо):
+    - Обзор модуля: extern/ru/extern-overview.md
+    - Начало работы: extern/ru/extern-first-steps.md
+    - Требования к рабочему месту: extern/ru/extern-system-requirements.md
+    - Установка модуля: extern/ru/extern-installation.md
+    - Обновление модуля: extern/ru/extern-update.md
+    - Авторизация: extern/ru/extern-authorization.md
+    - Расширение конфигурации: extern/ru/extern-config-extension.md
+    - Замена сертификата: extern/ru/extern-certificate-replace.md
+    - Отправка отчётности: extern/ru/extern-sending-reports.md
+    - Требования ФНС и СФР: extern/ru/extern-requirements-fns.md
+    - Проактивные выплаты СФР: extern/ru/extern-proactive-payments.md
+    - Массовая отправка: extern/ru/extern-mass-sending.md
+    - Интеграция с 1С: extern/ru/extern-integration-1c.md
+    - Ошибки и диагностика: extern/ru/extern-errors-diagnostics.md
+    - Настройка прав: extern/ru/extern-rights-setup.md
+    - Обзор API: extern/ru/extern-api-overview.md
+    - Частые вопросы (FAQ): extern/ru/extern-faq.md
