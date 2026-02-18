@@ -1,0 +1,36 @@
+# MkDocs Material — просмотр базы знаний (KMS)
+# Запуск: mkdocs serve
+# Сборка: mkdocs build → папка site/
+
+site_name: База знаний (KMS)
+site_description: Локальная база знаний по сценарию на Git
+site_url: https://your-org.github.io/kms-base  # заменить на свой URL при публикации
+
+docs_dir: content
+
+theme:
+  name: material
+  language: ru
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Тёмная тема
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Светлая тема
+
+plugins:
+  - search
+
+nav:
+  - Главная: index.md
+  - Клиентский сервис:
+    - Оформление возврата (RU): customer-service/ru/refund-flow.md
+  - Продажи:
+    - Допродажа пакета (RU): sales/ru/upsell-bundle.md
