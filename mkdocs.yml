@@ -42,6 +42,7 @@ nav:
     - Обновление модуля: extern/ru/extern-update.md
     - Авторизация: extern/ru/extern-authorization.md
     - Расширение конфигурации: extern/ru/extern-config-extension.md
+    - Резервное копирование данных: extern/ru/extern-backup-data.md
     - Замена сертификата: extern/ru/extern-certificate-replace.md
     - Отправка отчётности: extern/ru/extern-sending-reports.md
     - Требования ФНС и СФР: extern/ru/extern-requirements-fns.md
