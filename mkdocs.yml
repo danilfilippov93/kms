@@ -8,6 +8,9 @@ site_url: https://your-org.github.io/kms-base  # заменить на свой 
 
 docs_dir: content
 
+extra_css:
+  - stylesheets/extra.css
+
 theme:
   name: material
   language: ru
