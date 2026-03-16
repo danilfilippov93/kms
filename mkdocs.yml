@@ -53,3 +53,5 @@ nav:
     - Настройка прав: extern/ru/extern-rights-setup.md
     - Обзор API: extern/ru/extern-api-overview.md
     - Частые вопросы (FAQ): extern/ru/extern-faq.md
+  - Контур Фокус:
+    - Обзор сервиса: focus/ru/focus-overview.md
